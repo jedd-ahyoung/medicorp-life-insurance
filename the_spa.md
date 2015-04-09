@@ -13,7 +13,7 @@ Mary sighed, sinking back into her chair. It had been a while, she mused. When w
 
 Mary's eyes became distant. "Yeah..."
 
-Jennifer wasn't wrong. But it wasn't the same thing for her, not at all. But then, it never had been, had it? Where Mary was a working mother of three, Jennifer was a housewife of none. Mary was the short to Jennifer's tall, the average to Jen's toned - and lately, Mary had been the timid and stressed to Jennifer's outgoing and vivacity. (change.) I used to be like that, Mary thought. What happened?
+Jennifer wasn't wrong. But it wasn't the same thing for her, not at all. But then, it never had been, had it? Where Mary was a working mother of three, Jennifer was a housewife of none. Mary was the short to Jennifer's statuesque, the responsible to Jen's carefree - and lately, Mary had been the lassitude to Jennifer's vivacity. I used to be like that, Mary thought. What happened?
 
 Jennifer interrupted her reverie. "Listen," she said. "I can't decide for you, but it's this weekend, and I think you need this. Plus, it's a buy-one-get-one deal, so I mean..." Her earrings swung like tiny pendulums as she shook her head. "I guess maybe Jill could go."
 
