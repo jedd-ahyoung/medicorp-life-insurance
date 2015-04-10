@@ -13,7 +13,7 @@ Mary sighed, sinking back into her chair. It had been a while, she mused. When w
 
 Mary's eyes became distant. "Yeah..."
 
-Jennifer wasn't wrong. But it wasn't the same thing for her, not at all. But then, it never had been, had it? Where Mary was a working mother of three, Jennifer was a housewife of none. Mary was the short to Jennifer's statuesque, the responsible to Jen's carefree - and lately, Mary had been the lassitude to Jennifer's vivacity. I used to be like that, Mary thought. What happened?
+Jennifer wasn't wrong. But it wasn't the same thing for her, not at all. But then, it never had been, had it? Where Mary was a working mother of three, Jennifer was a housewife of none. Mary was the short to Jennifer's statuesque, the responsible to Jen's carefree - and lately, Mary had been the lassitude to Jennifer's vivacity. _I used to be like that_, Mary thought. _What happened?_
 
 Jennifer interrupted her reverie. "Listen," she said. "I can't decide for you, but it's this weekend, and I think you need this. Plus, it's a buy-one-get-one deal, so I mean..." Her earrings swung like tiny pendulums as she shook her head. "I guess maybe Jill could go."
 
@@ -21,34 +21,46 @@ In that moment, something changed. Mary wasn't sure why, but a spark of her old 
 
 --------
 
-The glass doors parted with a soft hiss as Mary entered the lobby. Sunlight streamed through the overhead skylight, and the air felt cool upon her face as she surveyed her surroundings. She'd known that the spa was expensive, but she hadn't imagined it'd be so nice. The faint scent of juniper ticked her nose - then she felt a tap on her shoulder.
+The glass doors parted with a soft hiss as Mary entered the lobby. Sunlight streamed through the skylights overhead, and the air felt cool upon her face as she surveyed her surroundings. The room was oval - large, yet oddly intimate with its pearlescent walls and soft carpeting. In front of her, a long, curved reception desk flanked by leafy plants housed a lone receptionist dressed to match the decor. Mary allowed herself to relax as the scent of fresh plants tickled her nostrils.
 
-"Ready for the getaway?" Jen asked. "C'mon, let's check in."
+"Ready for the getaway?" a voice asked. Mary turned to see Jennifer striding across the lobby from the waiting area. "It's nice, isn't it? I told you. C'mon, let's check in."
+
+<They talk to the receptionist. Stick some dialogue here. Or don't, whatever.>
+
+"Oh, you've signed up for the Rebirth package. This is your first time? Trust me, you'll love it."
+
+Jennifer grinned while Mary smiled nervously.
 
 -------
 
-"Close your eyes, and relax. I'll see you in a week." Immersed in the spa, they floated, suspended in snow-white cocoons. Mary's lids became heavy - her breathing slowed, and deepened. Silence fell, except for the beating of her heart.
+"Close your eyes, and relax. I'll see you in a week." Immersed in the spa, they floated, suspended in snow-white cocoons. Soon, Mary's lids became heavy and a warm languor settled over her - her breathing slowed, and deepened. Silence fell, except for the beating of her heart.
 
-Beat. Beat. Beat. Beat.
+_Beat. Beat. Beat. Beat._
 
-Her lids became heavier, as she floated.
+Mary let her eyes close as she floated.
 
-Beat. Beat. Beat.
+_Beat. Beat. Beat._
 
-Images floated before her. Her children - her husband. Beat. Their first date, when he'd tripped over a rock while hiking. Beat. Her first pregnancy, and the excitement of expectation. Beat. A childhood memory of strong arms lifting her towards the sky.
+Images floated before her. Her children - her husband. _Beat._ Their first date, when he'd tripped over a rock while hiking. _Beat._ Her first pregnancy, and the excitement of expectation - John's hope of a bouncing baby boy.  _Beat._ A childhood memory - the scent of aftershave, a laughing, lilting alto voice, strong arms lifting her up, up, up, towards the sky.
 
-Beat.
+_Beat._
 
-A distant voice. "Heart rate dropping. Prepare for process."
+A distant baritone. "Heart rate dropping. Prepare for process."
 
 The last image - her mother's face - faded as Mary's heart stopped.
 
 -------
 
-Over the next five days, some stuff happened. Describe the process, or no? No complications....yet.
+<Over the next five days, some stuff happened. Describe the process, or no? No complications....yet.>
+
+-------
+
+<Describe the process of waking, of revival.>
 
 -------
 
 "Checking out?" The receptionist greeted Mary at the front desk. "We hope you had a wonderful stay with us."
 
-"I did - I feel refreshed, almost like I'm a new person!" Mary beamed.
+Mary beamed. "That was....amazing," she breathed. "It's surprising, really - five days, and I feel like a new woman."
+
+The receptionist gave her a knowing smile. "It's a wonderful feeling, isn't it?"
